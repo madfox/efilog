@@ -1,0 +1,7 @@
+.*
+!.gitignore
+/lib/github.com/
+/var/cache/*
+!/var/cache/README
+/var/db/
+/var/style
